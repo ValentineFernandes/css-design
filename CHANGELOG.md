@@ -1,5 +1,11 @@
 # @primer/css
 
+## 20.2.3
+
+### Patch Changes
+
+- [#2077](https://github.com/primer/css/pull/2077) [`ab078a58`](https://github.com/primer/css/commit/ab078a58c6ebe4118f917bed4c71fbbb56f0634f) Thanks [@mlynam](https://github.com/mlynam)! - Make .form-control elements render as disabled when a parent fieldset is disabled
+
 ## 20.2.2
 
 ### Patch Changes
